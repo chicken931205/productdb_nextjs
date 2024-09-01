@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 77.55 85.59">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        strokeWidth: 0px;
+      }
+
+      .cls-2 {
+        fill: url(#Gradient_bez_nazwy_23);
+      }
+
+      .cls-3 {
+        fill: #ff5c35;
+      }
+    </style>
+    <linearGradient id="Gradient_bez_nazwy_23" data-name="Gradient bez nazwy 23" x1="25.56" y1="3.59" x2="-.29" y2="82" gradientTransform="translate(-30.16 55.44) rotate(-90)" gradientUnits="userSpaceOnUse">
+      <stop offset=".18" stop-color="#ff824e"/>
+      <stop offset=".42" stop-color="#ff7747"/>
+      <stop offset=".82" stop-color="#ff5c35"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient" x1="27.8" y1="-5.64" x2="49.69" y2="61.05" gradientTransform="translate(-8.66 23.09) rotate(-30)" gradientUnits="userSpaceOnUse">
+      <stop offset=".27" stop-color="#ff824e"/>
+      <stop offset=".74" stop-color="#ffa766"/>
+    </linearGradient>
+  </defs>
+  <g id="Grid">
+    <g id="Product_Logo" data-name="Product Logo">
+      <rect class="cls-3" x="-4.05" y="45.25" width="85.59" height="25.28" rx="12.64" ry="12.64" transform="translate(101.24 88.64) rotate(150)"/>
+      <rect class="cls-2" x="-30.16" y="30.16" width="85.59" height="25.28" rx="12.64" ry="12.64" transform="translate(55.44 30.16) rotate(90)"/>
+      <rect class="cls-1" x="-4.05" y="15.07" width="85.59" height="25.28" rx="12.64" ry="12.64" transform="translate(19.04 -15.66) rotate(30)"/>
+      <circle class="cls-3" cx="64.87" cy="42.83" r="12.67"/>
+    </g>
+  </g>
+</svg>
